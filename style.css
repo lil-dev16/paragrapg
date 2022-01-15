@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(223, 206, 174);
+}
+
+.cen{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#inp{
+    padding: 7px;
+    border: none;
+    width: 40px;
+    font-size: 19px;
+    border-radius: 5px;
+}
+.gen-form{
+    margin-right: 15px;
+}
+.ce{
+    display: flex;
+}
+.btn{
+    background-color: rgb(18, 128, 218);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px;
+}
